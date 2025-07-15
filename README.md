@@ -1,5 +1,3 @@
-#CODSOFT
-
 CODSOFT - Python Internship Projects
 This repository contains all the tasks and mini-projects completed during my CodSoft Python Development Internship. These projects focus on building a strong foundation in core Python concepts through simple, real-world applications.
 
